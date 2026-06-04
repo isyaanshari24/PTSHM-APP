@@ -1,7 +1,7 @@
 // ═══════════════════════════════════════════
 //  Service Worker — PT. Sumber Hayati Mandiri
 // ═══════════════════════════════════════════
-const CACHE_NAME = 'ptshm-v1';
+const CACHE_NAME = 'ptshm-v2';
 const ASSETS = [
   '/',
   '/index.html',
